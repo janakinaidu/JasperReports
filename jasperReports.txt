@@ -1,0 +1,22 @@
+JasperReports:
+==============
+Open Google and search "ireport 5.6.0"
+ and click on "iReport Designer | Jaspersoft Community" link which will navigates you to the 
+ 
+ https://community.jaspersoft.com/project/ireport-designer/releases
+ 
+ just click on "no thanks"
+ 
+ Download the File "iReport-5.6.0.zip"
+ 
+ Once Download is finished then Extract it from the zip folder;
+ 
+ opern etc folder copy the "ireport.conf" file into desktop and modify the "jdkhome" path;
+ 
+jdkhome="C:\Program Files\Java\jdk1.7.0_80"
+
+Note:jdk7 is currently working not jdk8....
+
+And now replace this file with existing file;
+
+And now got "bin" folder and "ireport" Application ....done;
